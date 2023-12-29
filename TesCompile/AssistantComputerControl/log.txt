@@ -1,0 +1,110 @@
+2023-12-07 20:02:03.1597|DEBUG|AssistantComputerControl.MainProgram|[ACC begun (v1.4.6)]
+2023-12-07 20:02:04.2484|DEBUG|AssistantComputerControl.MainProgram|Checking for updates...
+2023-12-07 20:02:04.2593|DEBUG|AssistantComputerControl.MainProgram|Deleting all files in action folder
+2023-12-07 20:02:04.2593|DEBUG|AssistantComputerControl.MainProgram|Old action files removed - moving on...
+2023-12-07 20:02:04.2593|DEBUG|AssistantComputerControl.MainProgram|
+[AssistantComputerControl] Initiated. 
+Listening in: "E:\Program Files (x86)" for ".txt" extensions
+2023-12-07 20:02:11.4768|DEBUG|AssistantComputerControl.MainProgram|Software up to date
+2023-12-07 20:02:22.6914|DEBUG|AssistantComputerControl.MainProgram|Didn't finish setup guide last time, opening again
+2023-12-07 20:02:27.1432|DEBUG|AssistantComputerControl.MainProgram|Has work OneDrive? False
+2023-12-08 15:10:46.4709|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-08 15:10:46.5593|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-08 15:10:46.7198|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-08 15:10:51.7350|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-08 15:11:16.7732|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-08 22:09:44.9059|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-08 22:09:45.0943|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-08 22:09:45.3138|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-08 22:09:50.3262|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-08 22:10:15.4376|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-09 15:40:22.5590|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-09 15:40:25.4348|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-09 15:40:25.7487|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-09 15:40:39.1441|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-09 15:41:11.2815|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-09 23:19:03.0768|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-09 23:19:04.5260|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-09 23:19:04.7048|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-09 23:19:09.7520|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-09 23:19:35.8193|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-11 18:42:23.1831|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-11 18:42:26.8457|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-11 18:42:27.7562|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-11 18:42:37.8979|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-11 18:43:04.2430|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-12 09:35:34.6343|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-12 09:35:49.9529|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-12 09:35:50.1575|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-12 09:35:59.5457|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-12 09:36:25.0269|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-12 18:16:30.9809|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-12 18:16:31.0365|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-12 18:16:31.3901|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-12 18:16:37.0039|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-12 18:17:03.4738|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-13 01:00:21.9807|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-13 01:00:22.2261|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-13 01:00:22.6006|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-13 01:00:35.3434|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-13 01:01:05.0996|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-13 17:27:33.0473|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-13 17:27:33.5346|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-13 17:27:33.6916|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-13 17:27:38.7302|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-13 17:28:03.7881|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-14 06:28:11.6635|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-14 06:28:17.4432|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-14 06:28:18.0732|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-14 06:28:23.5774|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-14 06:29:02.6247|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-15 16:47:54.7004|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-15 16:48:04.2491|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-15 16:48:06.7635|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-15 16:48:22.2532|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-15 16:48:52.9302|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-15 18:43:28.5749|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-15 18:43:29.9966|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-15 18:43:31.3445|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-15 18:43:39.3405|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-15 18:44:06.3433|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-15 20:35:36.3146|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-15 20:35:46.0760|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-15 20:35:46.8230|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-15 20:36:01.2073|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-15 20:36:29.8048|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-16 00:16:57.9767|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-16 00:17:02.5150|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-16 00:17:04.0940|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-16 00:17:11.7297|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-16 00:17:39.7249|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-16 11:09:14.1103|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-16 11:09:14.2338|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-16 11:09:14.4419|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-16 11:09:19.5036|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-16 11:09:44.5460|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-16 19:32:05.3367|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-16 19:32:05.5766|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-16 19:32:05.9357|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-16 19:32:11.0326|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-16 19:32:36.4233|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-16 21:34:02.8737|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-16 21:34:03.0872|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-16 21:34:03.2740|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-16 21:34:08.2900|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-16 21:34:33.7813|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-17 16:16:36.0459|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-17 16:16:37.2542|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-17 16:16:38.1433|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-17 16:16:43.2299|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-17 16:17:08.3621|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-18 09:47:02.9811|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-18 09:47:05.4300|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-18 09:47:07.6585|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-18 09:47:12.6709|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-18 09:47:37.7703|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-18 12:42:04.7613|DEBUG|AssistantComputerControl.MainProgram|Woken from sleep / lock, clearing action folder
+2023-12-18 12:42:05.3078|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Service started
+2023-12-18 12:42:05.5323|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Action folder is completely empty
+2023-12-18 12:42:10.5502|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
+2023-12-18 12:42:35.6079|DEBUG|AssistantComputerControl.MainProgram|[CLEANUP] Running extra cleanup (followup)
