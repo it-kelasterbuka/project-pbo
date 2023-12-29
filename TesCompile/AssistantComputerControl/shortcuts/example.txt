@@ -1,2 +1,0 @@
-This is an example file.
-If you haven't already, make your assistant open this file!
